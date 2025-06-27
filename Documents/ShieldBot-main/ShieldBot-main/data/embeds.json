@@ -1,0 +1,8 @@
+{
+    "1387771632097169429": {
+        "title": null,
+        "description": "`1`. **Why do I need to pass a verification?**\n\n> This system was created to prevent this server from being raided or an unauthorized bot from joining and harming our community. That's why we have set up a simple verification system.\n\n`2`. **How do I pass this verification?**\n\n> To access the server, simply click on the \"Verify me\" button below and follow the steps that will be indicated.",
+        "title_qr": "__Verification step__",
+        "description_qr": "Welcome. In order to access the rest of the server, you will need to verify that you are not a roclient. \ud83e\udd16\n\n**Please follow these steps to complete your verification**:\n\ud83e\udde9 *Open the Discord Mobile app*.\n\ud83d\udd27 *Go to the settings*.\n\ud83d\udcc2 *Choose the \"Scan QR code \" option*.\n\ud83d\uddbc *Scan the QR code below*.\n\n__Note__: *This verification requires the discord mobile application and an external device. We use the verification system set up by discord that's why it may seem more complicated than a simple captcha.*"
+    }
+}
